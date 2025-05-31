@@ -55,25 +55,6 @@ A hybrid marketplace with a social media layer, built on AI and automation:
 
 ---
 
-## Our Strength
-
-- Access to 500,000+ retailers from Day 1 through Stalwart Group
-- Distribution network of 350+ distributors and 27 super stockists
-- Trusted by 30+ leading retail brands
-- Field force of 350+ professionals to activate and onboard sellers
-- Logistics partnerships including Borzo for discounted same-day delivery
-
----
-
-## Monetization
-
-- Transaction fees
-- In-app advertisements and boosted content
-- Subscriptions for ERP and advanced AI tools
-- Delivery service margins
-
----
-
 ## Why We're Unique
 
 EaseMyHood is not just another e-commerce platform. We are the first to integrate AI with social commerce infrastructure — blending content, logistics, trust, and technology into one scalable system.
